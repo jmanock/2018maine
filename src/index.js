@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import {data} from './images';
+import {data} from './photo';
 
 const app = document.getElementById('root');
 
